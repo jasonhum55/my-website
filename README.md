@@ -1,6 +1,5 @@
 # my-website
 
-
 booya shanks
 
-Now editing on update
+Updates made on master
